@@ -1,0 +1,13 @@
+{
+  "name": "arm-mbed-wot",
+  "version": "0.1.0",
+  "description": "Openmbed Documentation",
+  "main": "index.js",
+  "directories": {
+  },
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "author": "jollen <jollen@jollen.org>",
+  "license": "cc-by-sa 4.0"
+}
